@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🇦🇷 I'm a 21-year-old developer from Argentina, interested in how things work under the hood.
+- 🇦🇷 I'm a 22-year-old developer from Argentina, interested in how things work under the hood.
 - 🔥 I'm passionate about programming, continuous learning, and solving problems with logic and patience.
 - ⚙️ I'm currently focused on web development and learning how to build desktop and mobile applications.
 - ♟️ I really enjoy strategy games.
