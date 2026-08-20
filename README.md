@@ -21,8 +21,6 @@
 ### 🌱 Currently Learning
 
 - Rust and the Tauri framework
-- Offensive security and CTF-style challenges using Hack The Box
-- Game memory analysis and reverse engineering 
 ---
 
 ### 🚀 Featured Projects
